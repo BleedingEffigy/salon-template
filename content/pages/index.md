@@ -25,7 +25,7 @@ sections:
     background_image_size: cover
     background_image_position: center top
     background_image_repeat: no-repeat
-    has_border: true
+    has_border: false
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
