@@ -24,7 +24,7 @@ sections:
     background_color: primary
     background_image: /images/classic/hero.png
     background_image_size: cover
-    background_image_position: center center
+    background_image_position: center top
     background_image_repeat: no-repeat
   - type: grid_section
     title: Image Grid
