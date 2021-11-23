@@ -24,7 +24,7 @@ sections:
     background_color: primary
     background_image: /images/classic/hero.png
     background_image_size: contain
-    background_image_position: center center
+    background_image_position: left top
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
