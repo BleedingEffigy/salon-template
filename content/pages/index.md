@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: /images/classic/hero.png
-    background_image_size: cover
+    background_image_size: contain
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
