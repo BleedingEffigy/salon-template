@@ -16,7 +16,7 @@ sections:
         style: secondary
     image_alt: Hero section placeholder image
     media_position: left
-    media_width: fourty
+    media_width: sixty
     align: left
     padding_top: large
     padding_bottom: large
