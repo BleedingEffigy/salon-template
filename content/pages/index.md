@@ -77,8 +77,12 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+          “People are more apt to believe you and like you when you know you
+          look 
+
+          fine. And when the world approves, self-respect is just a little 
+
+          easier.”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: /images/hair_cover.jpg
         image_alt: Brandon Guidelines
