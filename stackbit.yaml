@@ -72,16 +72,11 @@ models:
         name: palette
         label: Palette
         options:
-          - label: blue
-            value: blue
-          - label: green
-            value: green
-          - label: red
-            value: red
-          - label: gray
-            value: gray
-          - label: ''
-            value: ''
+          - blue
+          - green
+          - red
+          - gray
+          - orange
         default: blue
         description: The palette of the site
         required: true
