@@ -50,7 +50,6 @@ sections:
     enable_cards: false
     background_color: secondary
   - type: features_section
-    title: Features Section
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
