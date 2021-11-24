@@ -3,10 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Dallas Hair Salon
-    content: >+
-      Bathhouse is a home for people who strive to look, feel and perform their
-      very best. A bustling oasis to be fundamentally human.
-
+    content: >
+      A home for people who strive to look, feel and perform their very best. A
+      bustling oasis to be fundamentally human.
     actions:
       - label: Book Now
         url: /features
