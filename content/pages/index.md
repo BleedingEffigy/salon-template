@@ -201,6 +201,15 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
