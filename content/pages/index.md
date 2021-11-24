@@ -59,6 +59,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
+    enable_cards: true
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
