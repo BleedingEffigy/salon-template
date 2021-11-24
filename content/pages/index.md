@@ -155,7 +155,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        image_width: thirty-three
+        image_width: twenty-five
       - title: Section Item 2
         title_align: left
         content: >-
