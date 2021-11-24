@@ -162,7 +162,6 @@ sections:
     actions: []
   - type: grid_section
     title: What our customers say
-    subtitle: Grid Section Example
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
