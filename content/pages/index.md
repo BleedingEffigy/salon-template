@@ -28,7 +28,7 @@ sections:
     has_border: false
     background_image_opacity: 80
   - type: grid_section
-    title: Image Grid
+    title: As seen on
     subtitle: Grid Section Example
     align: center
     grid_items:
