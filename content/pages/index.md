@@ -83,7 +83,7 @@ sections:
           fine. And when the world approves, self-respect is just a little 
 
           easier.”
-        subtitle: 'Sheryl Teems, Owner of'
+        subtitle: 'Sheryl Teems, Owner of Dallas Hair Studio'
         image: /images/hair_cover.jpg
         image_alt: Brandon Guidelines
         media_position: right
