@@ -19,7 +19,7 @@ sections:
 
 
           Who's brave enough to fly into something we all keep calling a death
-          sphere? **File not found.** **Bite my shiny metal ass.**  When the
+          sphere? **File not found.** *Bite my shiny metal ass.*  When the
           lights go out, it's nobody's business what goes on between two
           consenting adults.
         image: /images/adam-winger-ZsUbK9zSgMo-unsplash.jpg
