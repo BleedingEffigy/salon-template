@@ -8,7 +8,7 @@ sections:
       very best. A bustling oasis to be fundamentally human.
 
     actions:
-      - label: Try Free
+      - label: Contact US
         url: /pricing
         style: primary
       - label: Learn More
