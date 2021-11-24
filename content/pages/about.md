@@ -24,7 +24,7 @@ sections:
         image: /images/adam-winger-ZsUbK9zSgMo-unsplash.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
-        media_width: fifty
+        media_width: sixty
       - title: Kerbie Mullenix
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
