@@ -53,7 +53,7 @@ export default class FeaturesSection extends React.Component {
                                         'ml-auto': alignX === 'right'
                                     })}
                                     style={{
-                                        minHeight: "`00%"
+                                        minHeight: "100%"
                                     }}
                                 />}
                         </div>
