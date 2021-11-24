@@ -81,7 +81,6 @@ sections:
     background_color: none
   - type: cta_section
     title: Talk to us now!
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
         url: /pricing
