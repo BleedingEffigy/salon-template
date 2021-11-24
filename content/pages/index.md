@@ -60,7 +60,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: false
-    background_color: secondary
+    background_color: primary
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
