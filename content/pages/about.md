@@ -39,7 +39,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        image: /images/jeppe-monster-GOjF1vXObrg-unsplash.jpg
+        image: /images/elizeu-dias-2EGNqazbAMk-unsplash.jpg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
