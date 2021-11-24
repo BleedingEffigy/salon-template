@@ -18,7 +18,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: Kerbie Mullenix
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
