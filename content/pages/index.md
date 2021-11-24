@@ -80,7 +80,7 @@ sections:
             icon_position: right
         image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: left
         media_width: fifty
     feature_padding_vert: large
     align: center
