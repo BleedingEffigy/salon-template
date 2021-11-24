@@ -172,12 +172,12 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
+      - content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Miles Tone**
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
