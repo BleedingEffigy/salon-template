@@ -81,7 +81,7 @@ sections:
         image: /images/hair-whip.jpg
         image_alt: Feature 1 placeholder image
         media_position: left
-        media_width: fifty
+        media_width: sixty
     feature_padding_vert: large
     align: center
     background_color: secondary
