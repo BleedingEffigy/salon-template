@@ -83,7 +83,7 @@ sections:
           fine. And when the world approves, self-respect is just a little 
 
           easier.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Sheryl Teems, Owner of'
         image: /images/hair_cover.jpg
         image_alt: Brandon Guidelines
         media_position: right
