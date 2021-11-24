@@ -52,7 +52,9 @@ export default class FeaturesSection extends React.Component {
                                         'mx-auto': alignX === 'center',
                                         'ml-auto': alignX === 'right'
                                     })}
-                                    style={{}}
+                                    style={{
+                                        backgroundAttachment: "fixed"
+                                    }}
                                 />}
                         </div>
                     )}
