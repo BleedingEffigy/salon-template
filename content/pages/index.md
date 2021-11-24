@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
-    subtitle: Optional hero section subtitle
     content: >+
       Bathhouse is a home for people who strive to look, feel and perform their
       very best. A bustling oasis to be fundamentally human.
