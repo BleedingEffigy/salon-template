@@ -161,7 +161,7 @@ sections:
     background_color: none
     actions: []
   - type: grid_section
-    title: Reviews Section
+    title: What our customers say
     subtitle: Grid Section Example
     grid_items:
       - content: >-
