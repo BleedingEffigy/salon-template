@@ -26,7 +26,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     has_border: false
-    background_image_opacity: 75
+    background_image_opacity: 80
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
