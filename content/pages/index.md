@@ -154,7 +154,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
-        image_has_padding: true
+        image_has_padding: false
       - title: Section Item 2
         title_align: left
         content: >-
