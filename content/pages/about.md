@@ -41,7 +41,7 @@ sections:
         image: /images/elizeu-dias-2EGNqazbAMk-unsplash.jpg
         image_alt: Happy co-workers
         media_position: right
-        media_width: fifty
+        media_width: sixty
         title: Eric Santiago
   - type: grid_section
     title: Our Officess
