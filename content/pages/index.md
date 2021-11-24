@@ -23,6 +23,9 @@ sections:
     background_image_repeat: no-repeat
     has_border: false
     background_image_opacity: 80
+    subtitle: >-
+      A home for people who strive to look, feel and perform their very best. A
+      bustling oasis to be fundamentally human.
   - type: grid_section
     title: As seen on
     align: center
