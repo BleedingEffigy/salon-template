@@ -21,8 +21,7 @@ export default class SectionBackground extends React.Component {
                     backgroundSize: backgroundImageSize,
                     backgroundPosition: backgroundImagePosition,
                     backgroundRepeat: backgroundImageRepeat,
-                    backgroundAttachment: "fixed",
-                    height: "100%"
+                    backgroundAttachment: "fixed"
                 }}
             />
         );
