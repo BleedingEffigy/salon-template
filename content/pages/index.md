@@ -50,7 +50,6 @@ sections:
     enable_cards: false
     background_color: secondary
   - type: features_section
-    subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
