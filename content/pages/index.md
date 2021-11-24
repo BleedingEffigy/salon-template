@@ -29,7 +29,6 @@ sections:
     background_image_opacity: 80
   - type: grid_section
     title: As seen on
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image: /images/ad.png
