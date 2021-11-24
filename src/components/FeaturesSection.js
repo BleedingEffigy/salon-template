@@ -53,7 +53,7 @@ export default class FeaturesSection extends React.Component {
                                         'ml-auto': alignX === 'right'
                                     })}
                                     style={{
-                                        backgroundAttachment: "fixed"
+                                        min
                                     }}
                                 />}
                         </div>
