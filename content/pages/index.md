@@ -162,12 +162,12 @@ sections:
   - type: grid_section
     title: What our customers say
     grid_items:
-      - content: >-
+      - content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Hanson Deck**
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
