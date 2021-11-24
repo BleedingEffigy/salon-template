@@ -9,10 +9,20 @@ sections:
   - type: features_section
     features:
       - title: Bri Honer
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          I'll get my kit! Hey, guess what you're accessories to. With a 
+
+          warning label this big, you know they gotta be fun! OK, this has
+          gotta 
+
+          stop. I'm going to remind Fry of his humanity the way only a woman
+          can.
+
+
+          Who's brave enough to fly into something we all keep calling a death
+          sphere? ** File not found.** * Bite my shiny metal ass.*  When the
+          lights go out, it's nobody's business what goes on between two
+          consenting adults.
         image: /images/adam-winger-ZsUbK9zSgMo-unsplash.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
