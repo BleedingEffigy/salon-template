@@ -8,7 +8,7 @@ sections:
       very best. A bustling oasis to be fundamentally human.
 
     actions:
-      - label: Book now
+      - label: Book Now
         url: /features
         style: secondary
     image_alt: Hero section placeholder image
