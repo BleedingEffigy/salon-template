@@ -82,7 +82,7 @@ sections:
   - type: cta_section
     title: Talk to us now!
     actions:
-      - label: Compare Plans
+      - label: Contact us
         url: /pricing
         style: primary
     align: center
