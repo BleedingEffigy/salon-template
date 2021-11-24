@@ -86,7 +86,7 @@ sections:
         media_position: right
         media_width: thirty-three
     feature_padding_vert: small
-    background_color: primary
+    background_color: none
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
