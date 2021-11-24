@@ -236,7 +236,7 @@ sections:
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     actions:
-      - label: Button
+      - label: Contact us
         url: /pricing
         style: primary
     actions_position: bottom
