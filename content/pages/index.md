@@ -108,7 +108,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_width: twenty-five
-      - title: Section Item 2
+      - title: Deep Facial Massages
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
