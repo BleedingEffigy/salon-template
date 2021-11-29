@@ -85,7 +85,6 @@ sections:
     background_color: none
   - type: grid_section
     title: What we offer
-    subtitle: Grid Section Example
     grid_items:
       - title: Manicure/Pedicure
         title_align: center
