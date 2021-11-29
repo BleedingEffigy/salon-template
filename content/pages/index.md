@@ -84,7 +84,7 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: grid_section
-    title: What we offer
+    title: Our amenities
     grid_items:
       - title: Manicure/Pedicure
         title_align: center
