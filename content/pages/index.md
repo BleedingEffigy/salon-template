@@ -84,7 +84,7 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: grid_section
-    title: Cards Grid Section
+    title: What we offer
     subtitle: Grid Section Example
     grid_items:
       - title: Manicure/Pedicure
