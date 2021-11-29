@@ -6,6 +6,7 @@ sections:
     align: center
     background_color: secondary
     image: /images/about-2.jpg
+    background_image: /images/about-2.jpg
   - type: features_section
     features:
       - title: Bri Honer
