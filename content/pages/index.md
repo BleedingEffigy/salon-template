@@ -87,7 +87,7 @@ sections:
     title: Cards Grid Section
     subtitle: Grid Section Example
     grid_items:
-      - title: Manicure
+      - title: Manicure/Pedicure
         title_align: center
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
