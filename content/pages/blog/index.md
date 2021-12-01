@@ -8,6 +8,7 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
+    background_image: /images/lukas-blazek-GnvurwJsKaY-unsplash.jpg
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
