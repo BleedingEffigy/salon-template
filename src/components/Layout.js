@@ -99,8 +99,7 @@ export default class Body extends React.Component {
                     {seoExtra}
                     {this.renderFontUrl(style, font)}
                     {favicon && <link rel="icon" href={withPrefix(favicon)} />}
-                    <link rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
                     <body className={classNames(`layout-${layoutType}`, `style-${style}`, `palette-${palette}`, `mode-${mode}`, `font-${font}`)} />
                 </Helmet>
