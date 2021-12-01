@@ -5,7 +5,7 @@ sections:
     title: About Us
     align: center
     background_color: secondary
-    background_image: /images/about-2.jpg
+    background_image: /images/adam-winger-3nBzt3Jdeh4-unsplash.jpg
   - type: features_section
     features:
       - title: Bri Honer
