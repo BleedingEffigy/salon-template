@@ -83,7 +83,7 @@ export default class HeroSection extends React.Component {
                                     'text-right': alignX === 'right'
                                 })}
                             >
-                                {title && <h1 className="hero__title">{title}</h1>}
+                                {title && <h1 className="hero__title animate__animated">{title}</h1>}
                                 {subtitle && <p className="hero__subtitle">{subtitle}</p>}
                                 {content && <div className="hero__copy">{markdownify(content)}</div>}
                                 {!_.isEmpty(actions) && (
