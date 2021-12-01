@@ -84,7 +84,7 @@ export default class HeroSection extends React.Component {
                                 })}
                             >
                                 {title && <h1 className="hero__title animate__animated animate__fadeInDown">{title}</h1>}
-                                {subtitle && <p className="hero__subtitle animate__animated animate__fadeInDown animate__slow">{subtitle}</p>}
+                                {subtitle && <p className="hero__subtitle animate__animated animate__fadeInDown animate__delay">{subtitle}</p>}
                                 {content && <div className="hero__copy">{markdownify(content)}</div>}
                                 {!_.isEmpty(actions) && (
                                     <div
