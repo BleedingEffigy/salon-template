@@ -76,7 +76,7 @@ export default class GridItem extends React.Component {
                                 })}
                             >
                                 <div
-                                    className={classNames('item__media', 'animate__animated', '' 
+                                    className={classNames('item__media', 'animate__animated', 'animate__bounce' 
                                     {
                                         'card__media': isCard,
                                         'card__media--fill': isCard && !hasImagePadding,
