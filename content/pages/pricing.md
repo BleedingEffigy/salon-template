@@ -126,8 +126,7 @@ sections:
     title: 'You asked, we answered!'
     subtitle: lorem-ipsum
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: |
           ## Children's Haircut&#xA;
 
