@@ -126,7 +126,7 @@ sections:
     title: 'You asked, we answered!'
     subtitle: lorem-ipsum
     features:
-      - subtitle: lorem-ipsum
+      - subtitle: Here are the services we currently offer
         content: |
           ## Children's Haircut&#xA;
 
