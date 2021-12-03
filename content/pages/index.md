@@ -126,10 +126,10 @@ sections:
         image_has_padding: true
       - title: Hair Conditioning
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          I prefer a vehicle that doesn't hurt Mother Earth. It's a go-cart,
+          powered by my own sense of self-satisfaction.
+
         content_align: left
         actions:
           - label: Learn More
