@@ -223,10 +223,6 @@ sections:
     background_color: none
   - type: cta_section
     title: Make an appointment now!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
     actions:
       - label: Contact us
         url: /pricing
