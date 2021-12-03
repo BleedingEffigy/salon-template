@@ -47,7 +47,6 @@ sections:
   - type: features_section
     features:
       - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         actions:
           - label: Learn More
             url: /style-guide
