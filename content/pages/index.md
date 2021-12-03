@@ -46,7 +46,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: The Big Title For the Feature
+      - title: 'For those who want to look, feel and perform their very best.'
         actions:
           - label: Learn More
             url: /style-guide
