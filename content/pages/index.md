@@ -105,10 +105,11 @@ sections:
         image_width: twenty-five
       - title: Deep Facial Massages
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          …And the fluffy kitten played with that ball of string all through the
+          night. On a lighter note, a Kwik-E-Mart clerk was brutally murdered
+          last night.
+
         content_align: left
         actions:
           - label: Learn More
