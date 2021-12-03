@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: See our services
     subtitle: Subscribe for discounted monthly service
     align: center
     padding_top: large
