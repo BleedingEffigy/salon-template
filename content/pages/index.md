@@ -83,10 +83,11 @@ sections:
     grid_items:
       - title: Manicure/Pedicure
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          Remember the time he ate my goldfish? And you lied and said I never
+          had goldfish. Then why did I have the bowl, Bart? \*Why did I have the
+          bowl?\*
+
         content_align: left
         actions:
           - label: Learn More
