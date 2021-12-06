@@ -202,7 +202,6 @@ sections:
     enable_cards: false
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
     actions:
       - label: View All
         url: /blog
