@@ -11,9 +11,10 @@ tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/netlify.yaml
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Why would I want to know that? I wish! It's a nickel. Ummm…to eBay? Ow, my
+  spirit! Meh.As
+   an interesting side note, as a head without a body, I envy the dead. 
+  I'm sure those windmills will keep them cool.
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
 image: images/classic/post-5.png
