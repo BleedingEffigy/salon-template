@@ -190,7 +190,7 @@ sections:
 
 
           **Gordon Norman**
-        image: images/gordon-norman.png
+        image: /images/oliver-ragfelt-khV4fTy6-D8-unsplash.jpg
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
