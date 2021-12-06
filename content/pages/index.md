@@ -233,7 +233,7 @@ sections:
     padding_bottom: large
     background_color: secondary
 seo:
-  title: Stackbit DIY Theme
+  title: Salon Template
   description: The preview of my salon template
   extra:
     - name: 'og:type'
