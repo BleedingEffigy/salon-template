@@ -160,7 +160,7 @@ sections:
 
 
           **Hanson Deck**
-        image: images/hanson-deck.png
+        image: /images/pexels-pixabay-415829.jpg
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
