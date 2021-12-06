@@ -170,7 +170,7 @@ sections:
 
 
           **Miles Tone**
-        image: images/miles-tone.png
+        image: /images/ian-dooley-TT-ROxWj9nA-unsplash.jpg
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
