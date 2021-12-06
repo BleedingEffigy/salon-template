@@ -11,10 +11,11 @@ categories:
 tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/sourcebit.yaml
-excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+excerpt: |-
+  You seem malnourished. Are you suffering from intestinal parasites? 
+  Humans dating robots is sick. You people wonder why I'm still single? 
+  It's 'cause all the fine robot sisters are dating humans! I'm just glad 
+  my fat, ugly mama isn't alive to see this day.
 thumb_image: images/classic/post-4.png
 thumb_image_alt: Post 4 placeholder image
 image: images/classic/post-4.png
