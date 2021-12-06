@@ -180,7 +180,7 @@ sections:
 
 
           **Eleanor Carr**
-        image: images/eleanor-carr.png
+        image: /images/averie-woodard-4nulm-JUYFo-unsplash.jpg
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
