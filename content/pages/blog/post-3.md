@@ -10,10 +10,11 @@ categories:
 tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/jamstack.yaml
-excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+excerpt: |-
+  But, like most politicians, he promised more than he could deliver. No 
+  argument here. Leela's gonna kill me. Switzerland is small and neutral! 
+  We are more like Germany, ambitious and misunderstood! And then the 
+  battle's not so bad?
 thumb_image: images/classic/post-3.png
 thumb_image_alt: Post 3 placeholder image
 image: images/classic/post-3.png
