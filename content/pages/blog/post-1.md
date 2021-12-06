@@ -8,9 +8,11 @@ author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tutorials.yaml
   - content/data/categories/general.yaml
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+excerpt: |-
+  Ah, the 'Breakfast Club' soundtrack!  I can't wait til I'm old enough to
+   feel ways about stuff! Anyone who laughs is a communist! And until 
+  then, I can never die? And I'd do it again! And perhaps a third time! 
+  But that would be it.
 thumb_image: images/classic/post-1.png
 thumb_image_alt: Post 1 placeholder image
 image: images/classic/post-1.png
