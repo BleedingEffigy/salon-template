@@ -224,7 +224,7 @@ sections:
     title: Make an appointment now!
     actions:
       - label: Contact us
-        url: '/#'
+        url: '#'
         style: primary
     actions_position: bottom
     align: center
