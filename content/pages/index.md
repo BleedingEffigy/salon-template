@@ -234,7 +234,7 @@ sections:
     background_color: secondary
 seo:
   title: Stackbit DIY Theme
-  description: The preview of the DIY theme
+  description: The preview of my salon template
   extra:
     - name: 'og:type'
       value: website
